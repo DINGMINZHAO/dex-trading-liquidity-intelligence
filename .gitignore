@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+
+# Local data
+data/raw/
+data/processed/
+data/analytics/
+data/tmp/
+
+# Local databases and temporary files
+*.duckdb
+*.duckdb.wal
+*.db
+*.tmp
+
+# macOS
+.DS_Store
+.vscode/
