@@ -1,0 +1,15 @@
+{
+  "source": "Uniswap V3 Subgraph via The Graph",
+  "subgraph_id": "5zvR82QoaXYFyDEKLZ9t6v9adgnptxYpKpSbxtgVENFV",
+  "git_commit": "3037e430aab818daceadaa830362f2a81e9c752d",
+  "indexed_block": 26284507,
+  "fetched_at_utc": "2026-10-27T14:01:15.127483+00:00",
+  "start_utc": "2026-09-01",
+  "end_exclusive_utc": "2026-10-01",
+  "row_count": 60,
+  "quality_checks": "PASS",
+  "pool_addresses": {
+    "low": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "high": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8"
+  }
+}

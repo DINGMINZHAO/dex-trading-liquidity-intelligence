@@ -25,3 +25,4 @@ data/tmp/
 # macOS
 .DS_Store
 .vscode/
+data/
