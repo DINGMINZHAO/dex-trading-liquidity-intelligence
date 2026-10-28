@@ -1,0 +1,10 @@
+numpy
+pandas
+pyarrow
+requests
+python-dotenv
+matplotlib
+plotly
+streamlit
+scipy
+statsmodels
